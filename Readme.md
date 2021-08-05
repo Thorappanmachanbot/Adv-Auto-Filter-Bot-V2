@@ -8,7 +8,7 @@
 
   </a>
   
-  <a href="https://github.com/PR0FESS0R-99/Pro-Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/Thorappanmachanbot/Adv-Auto-Filter-Bot-V2/fork">
     <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
